@@ -10,5 +10,6 @@ public class Main {
 System.out.println(a + " * " + b + " = " + resultat);
 System.out.println(a + " - " + b + " = " + resultatSoustraction);
 System.out.println(a + " + " + b + " = " + resultatAddition); 
+ System.out.println("au revoir");
       } 
 }
