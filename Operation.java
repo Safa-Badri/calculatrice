@@ -1,10 +1,9 @@
 class Operation {
-
 public static double division(int a, int b) {
-        if (b == 0) {
-            System.out.println("Erreur : division par zéro !");
-            return 0; // ou tu peux lancer une exception
-        }
+        if(b==0){
+       System.out.println("erreur de division par zero");
+return 0;
+}
         return (double) a / b;
     }
 // Méthode pour additionner deux nombres
