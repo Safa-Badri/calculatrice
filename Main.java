@@ -22,5 +22,6 @@ System.out.println("Erreur : Division par zéro interdite !");
  System.out.println(a + " / " + b + " = " + resultatDivision);
 }
 System.out.println("au revoir");
+System.out.println("Bonsoir");
      }
 }
